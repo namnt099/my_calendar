@@ -1,0 +1,22 @@
+const EMAIL_REGEX =
+    r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+";
+const VN_PHONE = r'(84|0[3|5|7|8|9])+([0-9]{8})\b';
+
+enum AppBackground {
+  XUAN,
+  HA,
+  THU,
+  DONG,
+  TET_NGUYEN_DAN,
+  LE_TINH_NHAN,
+  NGAY_QUOC_TE_PHU_NU,
+  GIO_TO_HUNG_VUONG,
+  NGAY_QUOC_TE_LAO_DONG,
+  NGAY_QUOC_TE_THIEU_NHI,
+  NGAY_QUOC_KHANH,
+  TET_TRUNG_THU,
+  NGAY_PHU_NU_VIET_NAM,
+  NGAY_LE_GIANG_SINH,
+  NGAY_HALLOWEEN,
+  NGAY_NHA_GIAO_VIET_NAM
+}

@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "998390695306",
+    "firebase_url": "https://tuvi2022-default-rtdb.firebaseio.com",
+    "project_id": "tuvi2022",
+    "storage_bucket": "tuvi2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998390695306:android:4be162186e225bcedbf473",
+        "android_client_info": {
+          "package_name": "com.example.my_calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998390695306-ulsss60tlrbqd6p07i9d6g1m4jktd02t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoRrlBtWunjZP-PD3rJlkX1h57dMlKzjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998390695306-ulsss60tlrbqd6p07i9d6g1m4jktd02t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998390695306-s14eqme40r8pb7cu1ignh8s4o5l5lo8c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tuvi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998390695306:android:790d64f650ed2018dbf473",
+        "android_client_info": {
+          "package_name": "com.example.tu_vi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998390695306-7ieu1ccjnkbbevm0v3fk47rmr4s0hbck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tu_vi",
+            "certificate_hash": "f2011b10ae12bf35eb409f8e7737e747332bc351"
+          }
+        },
+        {
+          "client_id": "998390695306-ulsss60tlrbqd6p07i9d6g1m4jktd02t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoRrlBtWunjZP-PD3rJlkX1h57dMlKzjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998390695306-ulsss60tlrbqd6p07i9d6g1m4jktd02t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998390695306-s14eqme40r8pb7cu1ignh8s4o5l5lo8c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tuvi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
